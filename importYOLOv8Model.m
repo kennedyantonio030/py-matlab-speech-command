@@ -9,7 +9,6 @@ layerNames = info.LayerInfo.Name;
 % removed
 remLayersIdx = find(contains(layerNames,'Reshape_To_Transpose'));
 
-% Remove other non-essential layers
 idx = 1;
 numLayersToRemove = size(layerNames,1)-remLayersIdx+1;
 layersToBeRemoved = cell(1, numLayersToRemove);
