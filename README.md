@@ -326,9 +326,8 @@ Following are the key features of the YOLO v8 detector compared to its predecess
 
 
 ## References
-[1] https://github.com/ultralytics/ultralytics
 
-[2] Lin, T., et al. "Microsoft COCO: Common objects in context. arXiv 2014." arXiv preprint arXiv:1405.0312 (2014).
+[1] Lin, T., et al. "Microsoft COCO: Common objects in context. arXiv 2014." arXiv preprint arXiv:1405.0312 (2014).
 
 
 Copyright 2024 The MathWorks, Inc.
